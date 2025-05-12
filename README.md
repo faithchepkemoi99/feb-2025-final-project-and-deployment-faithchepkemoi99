@@ -1,4 +1,5 @@
-# Baraka 5 Star Hotel Website
+# Baraka 5 Star Hotel Website  
+https://baraka5star.netlify.app/
 
 Welcome to the official repository of **Baraka 5 Star**, a luxury hotel website designed for travelers looking for premium meals, cozy hangouts, ice cream, and coffee at an international airport. This website emphasizes elegant design, cultural diversity, and user-friendly interactivity.
 
